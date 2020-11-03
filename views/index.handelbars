@@ -1,2 +1,6 @@
 // index.handelbars to submit user input into database
 
+
+
+// button to submit 
+<button type="submit">Add Burger</button>
