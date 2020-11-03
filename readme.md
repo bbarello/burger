@@ -1,4 +1,4 @@
-# Node, Express & HandelBars Burger App
+# HandelBars Burger App
 
 Application is a burger logger with MySQL, Node, Express, Handlebars 
 and with a homemade ORM. It utilizes MVC design pattern; Node and 
